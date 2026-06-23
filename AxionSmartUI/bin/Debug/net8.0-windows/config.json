@@ -1,0 +1,11 @@
+{
+  "NormalVolume": 50,
+  "NormalBrightness": 60,
+  "FullscreenVolume": 80,
+  "FullscreenBrightness": 100,
+  "NightVolume": 20,
+  "NightBrightness": 25,
+  "StartWithWindows": false,
+  "MinimizeToTray": true,
+  "AutoMode": true
+}

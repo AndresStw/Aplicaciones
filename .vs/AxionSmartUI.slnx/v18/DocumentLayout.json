@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|c:\\users\\cadl0\\source\\repos\\axionsmartui\\axionsmartui\\smartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|solutionrelative:axionsmartui\\smartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|c:\\users\\cadl0\\source\\repos\\axionsmartui\\axionsmartui\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|solutionrelative:axionsmartui\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|c:\\users\\cadl0\\source\\repos\\axionsmartui\\axionsmartui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|solutionrelative:axionsmartui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|c:\\users\\cadl0\\source\\repos\\axionsmartui\\axionsmartui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|solutionrelative:axionsmartui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|c:\\users\\cadl0\\source\\repos\\axionsmartui\\axionsmartui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|solutionrelative:axionsmartui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\Profile.cs",
+              "RelativeDocumentMoniker": "AxionSmartUI\\Profile.cs",
+              "ToolTip": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\Profile.cs",
+              "RelativeToolTip": "AxionSmartUI\\Profile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T03:41:57.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AxionSmartUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\App.xaml.cs",
+              "RelativeToolTip": "AxionSmartUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:53:16.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartConfig.cs",
+              "DocumentMoniker": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\SmartConfig.cs",
+              "RelativeDocumentMoniker": "AxionSmartUI\\SmartConfig.cs",
+              "ToolTip": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\SmartConfig.cs",
+              "RelativeToolTip": "AxionSmartUI\\SmartConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:45:19.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AxionSmartUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AxionSmartUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T01:58:28.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AxionSmartUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\MainWindow.xaml",
+              "RelativeToolTip": "AxionSmartUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-27T01:58:29.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

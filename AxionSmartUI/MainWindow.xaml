@@ -1,0 +1,278 @@
+﻿<Window x:Class="AxionSmartUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Axion Smart System"
+        Height="650"
+        Width="1000"
+        Background="#111111"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Border Background="#1A1A1A">
+            <StackPanel Margin="20">
+
+                <TextBlock Text="AXION"
+                           FontSize="32"
+                           FontWeight="Bold"
+                           Foreground="White"/>
+
+                <TextBlock Text="SMART SYSTEM"
+                           FontSize="14"
+                           Foreground="#888"/>
+
+                <Separator Margin="0,20"/>
+
+                <Button Content="Dashboard"
+                        Height="45"
+                        Margin="0,5"
+                        Background="#2A2A2A"
+                        Foreground="White"
+                        Click="Dashboard_Click"/>
+
+                <Button Content="Profiles"
+                        Height="45"
+                        Margin="0,5"
+                        Background="#2A2A2A"
+                        Foreground="White"
+                        Click="Profiles_Click"/>
+
+                <Button Content="Automation"
+                        Height="45"
+                        Margin="0,5"
+                        Background="#2A2A2A"
+                        Foreground="White"
+                        Click="Automation_Click"/>
+
+            </StackPanel>
+        </Border>
+
+        <Grid Grid.Column="1" Margin="25">
+
+            <StackPanel x:Name="DashboardPanel">
+
+                <TextBlock Text="Dashboard"
+                           FontSize="34"
+                           FontWeight="Bold"
+                           Foreground="White"/>
+
+                <WrapPanel Margin="0,20,0,0">
+
+                    <Border Background="#1E1E1E" Width="180" Height="120" Margin="10" CornerRadius="15">
+                        <StackPanel Margin="15">
+                            <TextBlock Text="CPU" Foreground="#AAA"/>
+                            <TextBlock x:Name="CpuText" FontSize="28" Foreground="White"/>
+                        </StackPanel>
+                    </Border>
+
+                    <Border Background="#1E1E1E" Width="180" Height="120" Margin="10" CornerRadius="15">
+                        <StackPanel Margin="15">
+                            <TextBlock Text="RAM" Foreground="#AAA"/>
+                            <TextBlock x:Name="RamText" FontSize="28" Foreground="White"/>
+                        </StackPanel>
+                    </Border>
+
+                    <Border Background="#1E1E1E" Width="180" Height="120" Margin="10" CornerRadius="15">
+                        <StackPanel Margin="15">
+                            <TextBlock Text="FPS" Foreground="#AAA"/>
+                            <TextBlock x:Name="FpsText" FontSize="28" Foreground="White" Text="N/A"/>
+                        </StackPanel>
+                    </Border>
+
+                    <Border Background="#1E1E1E" Width="250" Height="120" Margin="10" CornerRadius="15">
+                        <StackPanel Margin="15">
+                            <TextBlock Text="Mode" Foreground="#AAA"/>
+                            <TextBlock x:Name="ModeText" FontSize="22" Foreground="White"/>
+                        </StackPanel>
+                    </Border>
+
+                </WrapPanel>
+
+            </StackPanel>
+
+            <StackPanel x:Name="ProfilesPanel" Visibility="Collapsed">
+
+                <TextBlock Text="Profiles"
+                           FontSize="34"
+                           FontWeight="Bold"
+                           Foreground="White"/>
+
+                <TextBlock Text="Seleccionar perfil"
+                           Foreground="White"
+                           Margin="0,20,0,5"/>
+
+                <ComboBox x:Name="ProfileSelector"
+                          Height="35"
+                          Margin="0,0,0,10"
+                          Background="#2A2A2A"
+                          Foreground="Black"
+                          SelectionChanged="ProfileSelector_SelectionChanged"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+
+                    <Button Content="Agregar"
+                            Width="90"
+                            Margin="0,0,5,0"
+                            Background="#2A2A2A"
+                            Foreground="White"
+                            Click="AddProfile_Click"/>
+
+                    <Button Content="Editar"
+                            Width="90"
+                            Margin="0,0,5,0"
+                            Background="#2A2A2A"
+                            Foreground="White"
+                            Click="EditProfile_Click"/>
+
+                    <Button Content="Renombrar"
+                            Width="100"
+                            Margin="0,0,5,0"
+                            Background="#2A2A2A"
+                            Foreground="White"
+                            Click="RenameProfile_Click"/>
+
+                    <Button Content="Eliminar"
+                            Width="90"
+                            Background="#2A2A2A"
+                            Foreground="White"
+                            Click="DeleteProfile_Click"/>
+
+                </StackPanel>
+
+                <TextBlock Text="Volumen" Foreground="White"/>
+                <Slider x:Name="VolumeSlider" Minimum="0" Maximum="100"/>
+
+                <TextBlock Text="Brillo" Foreground="White" Margin="0,20,0,0"/>
+                <Slider x:Name="BrightnessSlider" Minimum="0" Maximum="100"/>
+
+                <CheckBox x:Name="StartupCheck"
+                          Content="Iniciar con Windows"
+                          Foreground="White"
+                          Margin="0,20,0,0"/>
+
+                <CheckBox x:Name="TrayCheck"
+                          Content="Minimizar a bandeja"
+                          Foreground="White"
+                          Margin="0,10,0,0"/>
+
+                <Button Content="Guardar"
+                        Height="45"
+                        Margin="0,30,0,0"
+                        Background="#2A2A2A"
+                        Foreground="White"
+                        Click="SaveButton_Click"/>
+
+            </StackPanel>
+
+            <StackPanel x:Name="AutomationPanel" Visibility="Collapsed">
+
+                <TextBlock Text="Automation"
+                           FontSize="34"
+                           FontWeight="Bold"
+                           Foreground="White"/>
+
+                <CheckBox x:Name="FullscreenModeCheck"
+                          Content="Fullscreen Mode"
+                          Foreground="White"
+                          Margin="0,20,0,0"/>
+
+                <CheckBox x:Name="NightModeCheck"
+                          Content="Night Mode"
+                          Foreground="White"
+                          Margin="0,10,0,0"/>
+
+                <CheckBox x:Name="DiscordModeCheck"
+                          Content="Discord Mode"
+                          Foreground="White"
+                          Margin="0,10,0,0"/>
+
+                <CheckBox x:Name="BlueLightFilterCheck"
+                          Content="Filtro de Luz Azul (Modo Noche)"
+                          Foreground="White"
+                          Margin="0,10,0,0"/>
+
+                <TextBlock Text="Aplicaciones Personalizadas"
+                           FontSize="20"
+                           FontWeight="Bold"
+                           Foreground="White"
+                           Margin="0,30,0,10"/>
+
+                <ListBox x:Name="CustomAppsListBox"
+                         Height="150"
+                         Background="#2A2A2A"
+                         Foreground="White"
+                         BorderThickness="0"
+                         Margin="0,0,0,10"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="Agregar Aplicación"
+                            Width="150" Height="35"
+                            Margin="0,0,10,0"
+                            Background="#2A2A2A"
+                            Foreground="White"
+                            Click="AddCustomApp_Click"/>
+
+                    <Button Content="Eliminar Seleccionada"
+                            Width="150" Height="35"
+                            Background="#2A2A2A"
+                            Foreground="White"
+                            Click="RemoveCustomApp_Click"/>
+                </StackPanel>
+
+                <!-- Separador para la sección de apagado -->
+                <Separator Margin="0,20"/>
+
+                <TextBlock Text="Apagado Automático"
+                           FontSize="20"
+                           FontWeight="Bold"
+                           Foreground="White"
+                           Margin="0,10,0,10"/>
+
+                <TextBlock Text="Apagado Automático"
+                           FontSize="20"
+                           FontWeight="Bold"
+                           Foreground="White"
+                           Margin="0,30,0,10"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                    <TextBlock Text="Minutos:" 
+                               Foreground="White" 
+                               VerticalAlignment="Center" 
+                               Margin="0,0,10,0"/>
+
+                    <TextBox x:Name="ShutdownMinutesInput" 
+                             Width="80" 
+                             Height="25" 
+                             Background="#2A2A2A" 
+                             Foreground="White" 
+                             BorderThickness="0" 
+                             VerticalContentAlignment="Center"
+                             Padding="5,0"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="Programar"
+                            Width="120" Height="35"
+                            Margin="0,0,10,0"
+                            Background="#2A2A2A"
+                            Foreground="White"
+                            Click="ScheduleShutdown_Click"/>
+
+                    <Button Content="Cancelar"
+                            Width="120" Height="35"
+                            Background="#2A2A2A"
+                            Foreground="White"
+                            Click="CancelShutdown_Click"/>
+                </StackPanel>
+
+            </StackPanel>
+
+        </Grid>
+
+    </Grid>
+</Window>
