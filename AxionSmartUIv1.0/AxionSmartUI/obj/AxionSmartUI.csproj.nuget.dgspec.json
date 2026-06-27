@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\AxionSmartUI.csproj": {}
+    "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\AxionSmartUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\AxionSmartUI.csproj": {
+    "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\AxionSmartUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\AxionSmartUI.csproj",
+        "projectUniqueName": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\AxionSmartUI.csproj",
         "projectName": "AxionSmartUI",
-        "projectPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\AxionSmartUI.csproj",
+        "projectPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\AxionSmartUI.csproj",
         "packagesPath": "C:\\Users\\cadl0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\obj\\",
+        "outputPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadl0\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,7 +88,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

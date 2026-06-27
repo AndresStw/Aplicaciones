@@ -537,11 +537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\AxionSmartUI.csproj",
+      "projectUniqueName": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\AxionSmartUI.csproj",
       "projectName": "AxionSmartUI",
-      "projectPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\AxionSmartUI.csproj",
+      "projectPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\AxionSmartUI.csproj",
       "packagesPath": "C:\\Users\\cadl0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\obj\\",
+      "outputPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cadl0\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -618,7 +618,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -627,7 +627,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"AudioSwitcher.AudioApi 3.0.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'AudioSwitcher.AudioApi 3.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "AudioSwitcher.AudioApi",
       "targetGraphs": [
         "net8.0-windows"
@@ -637,7 +637,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"AudioSwitcher.AudioApi.CoreAudio 3.0.3\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'AudioSwitcher.AudioApi.CoreAudio 3.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "AudioSwitcher.AudioApi.CoreAudio",
       "targetGraphs": [
         "net8.0-windows"

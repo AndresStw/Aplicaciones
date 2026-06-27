@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fQc9cDjmOeU=",
+  "dgSpecHash": "291Ixh3am9I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\AxionSmartUI.csproj",
+  "projectFilePath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\AxionSmartUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cadl0\\.nuget\\packages\\audioswitcher.audioapi\\3.0.0\\audioswitcher.audioapi.3.0.0.nupkg.sha512",
     "C:\\Users\\cadl0\\.nuget\\packages\\audioswitcher.audioapi.coreaudio\\3.0.3\\audioswitcher.audioapi.coreaudio.3.0.3.nupkg.sha512",
@@ -17,10 +17,10 @@
     {
       "code": "NU1701",
       "level": "Warning",
-      "message": "El paquete \"AudioSwitcher.AudioApi 3.0.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
-      "projectPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\AxionSmartUI.csproj",
+      "message": "Package 'AudioSwitcher.AudioApi 3.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\AxionSmartUI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\AxionSmartUI.csproj",
+      "filePath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\AxionSmartUI.csproj",
       "libraryId": "AudioSwitcher.AudioApi",
       "targetGraphs": [
         "net8.0-windows"
@@ -29,10 +29,10 @@
     {
       "code": "NU1701",
       "level": "Warning",
-      "message": "El paquete \"AudioSwitcher.AudioApi.CoreAudio 3.0.3\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
-      "projectPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\AxionSmartUI.csproj",
+      "message": "Package 'AudioSwitcher.AudioApi.CoreAudio 3.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\AxionSmartUI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\AxionSmartUI.csproj",
+      "filePath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUIv1.0\\AxionSmartUI\\AxionSmartUI.csproj",
       "libraryId": "AudioSwitcher.AudioApi.CoreAudio",
       "targetGraphs": [
         "net8.0-windows"

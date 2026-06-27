@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AxionSmartUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a177a4c089e41ca0b7817ca8abeeaf1585ecded")]
 [assembly: System.Reflection.AssemblyProductAttribute("AxionSmartUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AxionSmartUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

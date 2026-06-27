@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\cadl0\source\repos\AxionSmartUI\AxionSmartUI\obj\Debug\net8.0-windows\
+C:\Users\cadl0\source\repos\AxionSmartUI\AxionSmartUIv1.0\AxionSmartUI\obj\Debug\net8.0-windows\
 AxionSmartUI
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\cadl0\source\repos\AxionSmartUI\AxionSmartUI\App.xaml
+C:\Users\cadl0\source\repos\AxionSmartUI\AxionSmartUIv1.0\AxionSmartUI\App.xaml
 11407045341
 22-75585598
 9-1935733993
-2142143284229
+214137975214
 MainWindow.xaml;
 
 False

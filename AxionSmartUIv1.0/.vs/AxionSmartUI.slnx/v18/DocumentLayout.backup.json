@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|c:\\users\\cadl0\\source\\repos\\axionsmartui\\axionsmartui\\smartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|solutionrelative:axionsmartui\\smartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|c:\\users\\cadl0\\source\\repos\\axionsmartui\\axionsmartui\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|solutionrelative:axionsmartui\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|c:\\users\\cadl0\\source\\repos\\axionsmartui\\axionsmartui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|solutionrelative:axionsmartui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,40 +21,20 @@
     {
       "AbsoluteMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|c:\\users\\cadl0\\source\\repos\\axionsmartui\\axionsmartui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|solutionrelative:axionsmartui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|c:\\users\\cadl0\\source\\repos\\axionsmartui\\axionsmartui\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|solutionrelative:axionsmartui\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|c:\\users\\cadl0\\source\\repos\\axionsmartui\\axionsmartui\\smartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E03B0CB6-8CFA-A92F-2DF5-9026D70B9B93}|AxionSmartUI\\AxionSmartUI.csproj|solutionrelative:axionsmartui\\smartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 340,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Profile.cs",
               "DocumentMoniker": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\Profile.cs",
               "RelativeDocumentMoniker": "AxionSmartUI\\Profile.cs",
@@ -59,45 +47,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\App.xaml.cs",
               "RelativeDocumentMoniker": "AxionSmartUI\\App.xaml.cs",
               "ToolTip": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\App.xaml.cs",
               "RelativeToolTip": "AxionSmartUI\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T02:53:16.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SmartConfig.cs",
               "DocumentMoniker": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\SmartConfig.cs",
               "RelativeDocumentMoniker": "AxionSmartUI\\SmartConfig.cs",
               "ToolTip": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\SmartConfig.cs",
               "RelativeToolTip": "AxionSmartUI\\SmartConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T02:45:19.614Z"
+              "WhenOpened": "2026-05-27T02:45:19.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AxionSmartUI\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\MainWindow.xaml.cs",
               "RelativeToolTip": "AxionSmartUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAhwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T01:58:28.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\cadl0\\source\\repos\\AxionSmartUI\\AxionSmartUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AxionSmartUI\\MainWindow.xaml",
